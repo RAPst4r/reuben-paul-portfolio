@@ -55,7 +55,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   
   Open juptyer notebook to see how the code works
   Remember what Gandalf the Wise says
-    <img src="gandalf-thou-shalt-not-phish.png" width="530" height="300">
+    <img src="4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish.png" width="530" height="300">
 
 ### 5. **AI Self-Driving Cars** 🚗 
   In this project, I use Machine Learning and OpenCV to have the car camera detect lanes and extrapolate the lanes for self-driving
