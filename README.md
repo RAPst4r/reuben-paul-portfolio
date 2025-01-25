@@ -47,7 +47,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   ```
 
 ### 4. **AI Phishing URL Detector** 📽️
-      <img src="/4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish.png" width="530" height="300">
+      <img src="reuben-paul-portfolio/4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish.png" width="530" height="300">
 In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
   
   - **Purpose** Detect hacker attempts to phish (steal) information
