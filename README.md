@@ -281,7 +281,7 @@ NOTE: These lesson files are rendered within the CyberSecurity portal as a lesso
 I also have a non-profit called CyberShaolin that has over 5000 kids worldwide enrolled to learn about the dangers and defenses in the online world. 
 
 **Conference Speaker:**
-I am also invited to speak in conferences and have delivered over 30 keynotes worldwide on AI, technology and cybersecurity topics
+I am also invited to speak at conferences and have delivered over 30 keynotes worldwide on AI, technology, and cybersecurity topics
 
 ---
 
