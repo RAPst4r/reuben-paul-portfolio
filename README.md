@@ -47,15 +47,15 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   ```
 
 ### 4. **AI Phishing URL Detector** 📽️
-  In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
+      <img src="4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish.png" width="530" height="300">
+In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
   
   - **Purpose** Detect hacker attempts to phish (steal) information
   - **Application**: Use to protect users by against phishing threats
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
   
   Open juptyer notebook to see how the code works
-  Remember what Gandalf the Wise says
-    <img src="4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish.png" width="530" height="300">
+  Remember the words of the wise - Gandalf the Wise!
 
 ### 5. **AI Self-Driving Cars** 🚗 
   In this project, I use Machine Learning and OpenCV to have the car camera detect lanes and extrapolate the lanes for self-driving
