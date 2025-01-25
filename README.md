@@ -10,7 +10,10 @@ I love AI, cybersecurity, and Programming and have been passionate about technol
 
 ---
 
-### Industry Leadership
+
+----
+
+## Industry Leadership
 **Non-Profit Founder:**
 
 I also have a non-profit called CyberShaolin that has over 5000 kids worldwide enrolled to learn about the dangers and defenses in the online world. 
