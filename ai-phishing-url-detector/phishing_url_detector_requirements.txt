@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+tld
+re101
+seaborn
+colorama
+urllib3
+joblib
+
+# tld is a library to process Top level Domains 
+# re101 is library for Regular Expressions
+# seaborn is a library for Data Visualizations
+# colorama is a library for Coloring Python outputs
