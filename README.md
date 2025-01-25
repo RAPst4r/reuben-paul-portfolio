@@ -38,6 +38,15 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Application**: Useful to transcribe professor videos to text so you can take the transcript and summarize it with a fast read
   - **Technologies**: OpenAI Whisper, FFMPEG, Jupyter notebook
 
+  ```
+  Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+  Detected language: English
+  [00:00.000 --> 00:24.580]  I'm at the foot of the ladder. The LAM footbeds are only depressed in the surface about one or two inches, although the surface appears to be very, very fine-grained as you get close to it. It's almost like a powder. Ground mass is very fine.
+  [00:30.000 --> 00:38.240]  Yeah, I'm going to step off the LAM now.
+  [00:47.520 --> 00:55.280]  That's one small step for man, one giant leap for mankind.
+  [01:00.000 --> 01:01.520]  Yeah, I'm going to step off the LAM.
+  ```
+
 ### 4. **AI Phishing URL Detector** 📽️
   In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
   - **Purpose** Detect hacker attempts to phish (steal) information
