@@ -22,6 +22,15 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Application**: Driver Safety
   - **Technologies**: AI Facemesh, OpenCV
 
+### 1. **AI Face Tracking Drone (For FedEx)** 📽️
+  I coded a face tracking software to control a drone 
+  To get an idea of how Notifeye works, please see the following video.
+  [![**Notifeye Code Demo**](https://img.youtube.com/vi/gDkTH1WnpPI/3.jpg)](https://www.youtube.com/watch?v=gDkTH1WnpPI)
+  
+  - **Purpose** Save lives by notifying the driver if they are drowsy or distracted
+  - **Application**: Driver Safety
+  - **Technologies**: AI Facemesh, OpenCV
+
 ### 1. **AI Video Transcriber** 📽️
   In this project, I use OpenAI's Whisper API to transcribe videos to text.
   - **Purpose** Use OpenAI's Speech to Text Whisper API to transcribe text
