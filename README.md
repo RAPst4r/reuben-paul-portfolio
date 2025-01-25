@@ -64,8 +64,16 @@ In this project, I use Machine Learning to train a model using malicious URL dat
   - **Application**: Humanless transportation
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
 
-### 4. **AI Drone Path Planning** 🛸🧭
+### 6. **AI Drone Path Planning (Flyer Cars)** 🛸🧭
 
+This project was coded to demonstrate how a Drone can track a detect buildings and navigate around obstacles using Motion Path Planning.
+
+A clip showing the  Motion Planning working code is shown below.
+![Drone Flyer](6-ai-drone-path-planning/images/Drone_Flyer_Motion_Planning.gif)
+
+  - **Purpose** Flying Cars
+  - **Application**: Airborne transportation
+  - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
 
 ## Cybersecurity Projects 🛡️
 
