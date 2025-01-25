@@ -11,7 +11,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
 ---
 ## AI Projects 🤖
 
-### 1. **AI Notifeye (Driver Safety Camera Device)** 📽️
+### 1. **AI Notifeye (Driver Safety Camera Device)** 🧿🧿
   I coded a camera software using AI Facemesh technology that will track the human eye and founded Notifeye
   as part of my Business Incubator class in my junior year in High School. Notifeye won the first place in 
   the Nationals Incubatoredu competition and was incorporated into a company. 
@@ -23,7 +23,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Application**: Driver Safety
   - **Technologies**: AI Facemesh, OpenCV
 
-### 2. **AI Face Tracking Drone (For FedEx)** 📽️
+### 2. **AI Face Tracking Drone (For FedEx)** 🎭
   I coded a face tracking software to control a drone 
   To get an idea of how Notifeye works, please see the following video.
   
@@ -47,7 +47,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   [01:00.000 --> 01:01.520]  Yeah, I'm going to step off the LAM.
   ```
 
-### 4. **AI Phishing URL Detector** 📽️
+### 4. **AI Phishing URL Detector** lure 🎣
 ![Gandalf The Wise](4-ai-phishing-url-detector/gandalf-thou-shalt-not-phish-small.png)
 
 In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
@@ -80,6 +80,77 @@ A clip showing the  Motion Planning working code is shown below.
 
 ## Cybersecurity Projects 🛡️
 
+### 7. **Introduction to Cybersecurity** 𝝰
+
+This series of .MD files were created as a lesson to teach the Introduction to Cybersecurity through my non-profit organization, CyberShaolin.
+
+  - **Purpose** Teach the Introduction of Cybersecurity 
+  - **Application**: Safe and Secure Online World
+  - **Technologies**: whois, whoami
+
+```
+ {
+    "title": "Intro To Cyber",
+    "description": "Learn the very basics about cybersecurity.",
+    "courses": [
+      {
+        "lesson_id": "whoami",
+        "title": "Whoami",
+        "description": "Basic Command to introduce you to terminal and cybersecurity."
+      },
+      {
+        "lesson_id": "whois",
+        "title": "Whois",
+        "description": "Basic Reconnaissance Command to learn about registered users of an internet resource."
+      }
+    ]
+  }
+```
+NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
+
+### 7. **Hacking Secrets** 𝝰
+
+This series of .MD files were created as a lesson to teach the how hackers hack secrets and what one can do to protect against such threats. This is delivered through my non-profit organization, CyberShaolin.
+
+  - **Purpose** Learn how hakcers hack secrets
+  - **Application**: Safe and Secure Online World
+  - **Technologies**: setoolkit
+
+```
+{
+  "pathwayTitle": "Hacking Secrets",
+  "title": "Hacking Secrets - Hackercise",
+  "description": "Common hacking secrets techniques.",
+  "difficulty": "Beginner",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Start",
+        "text": "hacking-secrets-start.md"
+      },
+      {
+        "title": "Scenario - CIA Agent Bourne Hacking Secrets Mission",
+        "text": "hacking-secrets-1-scenario.md",
+        "answer": "hacking-secrets-2-solution.md"
+      },
+      {
+        "title": "End",
+        "text": "hacking-secrets-end.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "&copy; CyberShaolin. All rights reserved.",
+      "code": "setupEnv.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+}
+```
+NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
 
 ## Programming Projects ⎔
 
