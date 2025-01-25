@@ -18,7 +18,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   To get an idea of how Notifeye works, please see the following video.
 
   
-  [![**Notifeye Code Demo**](https://img.youtube.com/vi/2hg6Wzpo1hM/0.jpg)](https://www.youtube.com/watch?v=2hg6Wzpo1hM)
+  [![**Notifeye Code Demo**](https://img.youtube.com/vi/2hg6Wzpo1hM/0.jpg)]{:target="_blank"}  https://www.youtube.com/watch?v=2hg6Wzpo1hM
   
   - **Purpose** Save lives by notifying the driver if they are drowsy or distracted
   - **Application**: Driver Safety
