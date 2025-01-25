@@ -22,31 +22,32 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Application**: Driver Safety
   - **Technologies**: AI Facemesh, OpenCV
 
-### 1. **AI Face Tracking Drone (For FedEx)** 📽️
+### 2. **AI Face Tracking Drone (For FedEx)** 📽️
   I coded a face tracking software to control a drone 
   To get an idea of how Notifeye works, please see the following video.
-  [![**Notifeye Code Demo**](https://img.youtube.com/vi/gDkTH1WnpPI/3.jpg)](https://www.youtube.com/watch?v=gDkTH1WnpPI)
   
-  - **Purpose** Save lives by notifying the driver if they are drowsy or distracted
-  - **Application**: Driver Safety
+  [![**Notifeye Code Demo**](https://img.youtube.com/vi/gDkTH1WnpPI/0.jpg)](https://www.youtube.com/watch?v=gDkTH1WnpPI)
+  
+  - **Purpose** Track the human face and follow it
+  - **Application**: Delivery of Fedex packages via drones to the correct person
   - **Technologies**: AI Facemesh, OpenCV
 
-### 1. **AI Video Transcriber** 📽️
+### 3. **AI Video Transcriber** 📽️
   In this project, I use OpenAI's Whisper API to transcribe videos to text.
   - **Purpose** Use OpenAI's Speech to Text Whisper API to transcribe text
   - **Application**: Useful to transcribe professor videos to text so you can take the transcript and summarize it with a fast read
   - **Technologies**: OpenAI Whisper, FFMPEG, Jupyter notebook
 
-### 2. **AI Phishing URL Detector** 📽️
+### 4. **AI Phishing URL Detector** 📽️
   In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
   - **Purpose** Detect hacker attempts to phish (steal) information
   - **Application**: Use to protect users by against phishing threats
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
 
-### 3. **AI Self-Driving Cars** 🚗 
-  In this project, I use Machine Learning to 
-  - **Purpose** Detect hacker attempts to phish (steal) information
-  - **Application**: Use to protect users by against phishing threats
+### 5. **AI Self-Driving Cars** 🚗 
+  In this project, I use Machine Learning and OpenCV to have the car camera detect lanes and extrapolate the lanes for self-driving
+  - **Purpose** Autonomous (self-driving) 
+  - **Application**: Humanless transportation
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
 
 
