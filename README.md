@@ -37,7 +37,6 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Purpose** Use OpenAI's Speech to Text Whisper API to transcribe text
   - **Application**: Useful to transcribe professor videos to text so you can take the transcript and summarize it with a fast read
   - **Technologies**: OpenAI Whisper, FFMPEG, Jupyter notebook
-
   ```
   Detecting language using up to the first 30 seconds. Use `--language` to specify the language
   Detected language: English
@@ -49,6 +48,7 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
 
 ### 4. **AI Phishing URL Detector** 📽️
   In this project, I use Machine Learning to train a model using malicious URL data and then use the model to predict if a link that is sent is a phishing or malicious link or not. 
+  
   - **Purpose** Detect hacker attempts to phish (steal) information
   - **Application**: Use to protect users by against phishing threats
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
@@ -58,7 +58,6 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Purpose** Autonomous (self-driving) 
   - **Application**: Humanless transportation
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
-
 
 ### 4. **AI Drone Path Planning** 🛸🧭
 
