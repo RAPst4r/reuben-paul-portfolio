@@ -11,7 +11,7 @@ I love AI, cybersecurity, and Programming and have been passionate about technol
 ---
 
 
-----
+--
 
 ## Industry Leadership
 **Non-Profit Founder:**
