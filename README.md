@@ -59,6 +59,7 @@ In this project, I use Machine Learning to train a model using malicious URL dat
   Remember the words of the wise - Gandalf the Wise!
 
 ### 5. **AI Self-Driving Cars** 🚗 
+![Self-Driving Cars](5-ai-self-driving-cars/car-lanes-finder-steps-small.png)
   In this project, I use Machine Learning and OpenCV to have the car camera detect lanes and extrapolate the lanes for self-driving
   - **Purpose** Autonomous (self-driving) 
   - **Application**: Humanless transportation
