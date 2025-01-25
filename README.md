@@ -81,6 +81,7 @@ A clip showing the  Motion Planning working code is shown below.
 ## Cybersecurity Projects 🛡️
 
 ### 7. **Introduction to Cybersecurity** 🚨
+![Intro to Cyber](7-cyber-intro-to-cyber/intro-to-cybersecurity-small.png)
 
 This series of .MD files were created as a lesson to teach the Introduction to Cybersecurity through my non-profit organization, CyberShaolin.
 
@@ -230,6 +231,7 @@ NOTE: These lesson files are rendered within the CyberSecurity portal as a lesso
 ## Programming Projects ⎔
 
 ### 10. **Introduction to Linux** 🚨
+![Introduction to Linux](10-programming-intro-to-linux/Intro-to-Linux-Commands.png)
 
 This series of .MD files were created as a lesson to teach the Introduction to Linux through my non-profit organization, CyberShaolin.
 
