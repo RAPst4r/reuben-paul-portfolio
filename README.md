@@ -80,7 +80,7 @@ A clip showing the  Motion Planning working code is shown below.
 
 ## Cybersecurity Projects 🛡️
 
-### 7. **Introduction to Cybersecurity** 𝝰
+### 7. **Introduction to Cybersecurity** 🚨
 
 This series of .MD files were created as a lesson to teach the Introduction to Cybersecurity through my non-profit organization, CyberShaolin.
 
@@ -108,13 +108,13 @@ This series of .MD files were created as a lesson to teach the Introduction to C
 ```
 NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
 
-### 7. **Hacking Secrets** 𝝰
+### 8. **Hacking Secrets** ㊙️🕵️
 
-This series of .MD files were created as a lesson to teach the how hackers hack secrets and what one can do to protect against such threats. This is delivered through my non-profit organization, CyberShaolin.
+This series of .MD files were created as a lesson to teach how hackers hack secrets and what one can do to protect against such threats. These lessons are delivered through my non-profit organization, CyberShaolin.
 
-  - **Purpose** Learn how hakcers hack secrets
+  - **Purpose** Learn how hackers hack secrets
   - **Application**: Safe and Secure Online World
-  - **Technologies**: setoolkit
+  - **Technologies**: John-The-Ripper Password Cracking, Rainbow Table Cracking, Steganography (Hiding data within images and media) 
 
 ```
 {
@@ -152,8 +152,124 @@ This series of .MD files were created as a lesson to teach the how hackers hack 
 ```
 NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
 
+### 9. **Hacking Humans** 🚷
+
+This series of .MD files were created as a lesson to teach  how hackers trick people into giving out their sensitive and personal information through a technique called Social Engineering. This lesson is delivered through my non-profit organization, CyberShaolin.
+
+  - **Purpose** Learn how hackers trick people 
+  - **Application**: Safe and Secure Online World
+  - **Technologies**: setoolkit
+
+```
+{
+  "pathwayTitle": "Hacking Humans",
+  "title": "Hacking Humans",
+  "description": "Hacking Techniques to Exploit Trust",
+  "difficulty": "Beginner",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Start",
+        "text": "hacking-humans-start.md"
+      },
+      {
+        "title": "setoolkit Setup",
+        "text": "hacking-humans-1-setoolkit-setup.md"
+      },
+      {
+        "title": "Postback Location",
+        "text": "hacking-humans-2-postback-location.md"
+      },
+      {
+        "title": "Cloning Website",
+        "text": "hacking-humans-3-cloning-website.md"
+      },
+      {
+        "title": "Start Harvesting Webserver",
+        "text": "hacking-humans-4-start-harvesting-webserver.md"
+      },
+      {
+        "title": "Hacking The Victim",
+        "text": "hacking-humans-5-the-victims-view.md"
+      },
+      {
+        "title": "The Hacker's View",
+        "text": "hacking-humans-6-on-the-hackers-side.md"
+      },
+      {
+        "title": "Close setoolkit",
+        "text": "hacking-humans-7-setoolkit-exit.md"
+      },
+      {
+        "title": "Harvested Credentials",
+        "text": "hacking-humans-8-harvested-credentials.md"
+      },
+      {
+        "title": "Read Hacked Credentials",
+        "text": "hacking-humans-9-read-hacked-credentials.md"
+      },
+      {
+        "title": "The End",
+        "text": "hacking-humans-end.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "&copy; CyberShaolin. All rights reserved.",
+      "code": "setupEnv.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+}
+```
+NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
+
 ## Programming Projects ⎔
 
+### 10. **Introduction to Linux** 🚨
+
+This series of .MD files were created as a lesson to teach the Introduction to Linux through my non-profit organization, CyberShaolin.
+
+  - **Purpose** Teach the Introduction of Linux 
+  - **Application**: Upskilling Technology Skills
+  - **Technologies**: Linux OS commands
+
+```
+ {
+    "title": "Introduction to Linux",
+    "description": "Introduces you to the Linux OS and commonly used Linux Commands.",
+    "courses": [
+      {
+        "pathway_id": "intro-to-linux",
+        "course_id": "linux-os",
+        "title": "Linux OS",
+        "description": "Linux Operating Systems (OS)"
+      },
+      {
+        "pathway_id": "intro-to-linux",
+        "course_id": "linux-commands",
+        "title": "Linux Commands",
+        "description": "Common Linux Commands"
+      },
+      {
+        "pathway_id": "intro-to-linux",
+        "course_id": "linux-commands-training_kwoon",
+        "title": "Linux Commands - Practice",
+        "description": "Linux Commands - Practice"
+      },
+      {
+        "pathway_id": "intro-to-linux",
+        "course_id": "linux-commands-hackercise",
+        "title": "Hackercise - Treasure Hunt using Command Line",
+        "description": "Hands On exercise to practice Linux Commands"
+      }
+    ]
+  }
+```
+NOTE: These lesson files are rendered within the CyberSecurity portal as a lesson plan. 
 
 ---
 
