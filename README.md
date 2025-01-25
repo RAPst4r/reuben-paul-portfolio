@@ -1,17 +1,17 @@
 # Reuben Paul's Portfolio of Projects (AI, Cybersecurity, Programming)
 
-AI, cybersecurity, and programming projects that I build to learn and teach others!
+AI, cybersecurity, and programming projects that **I build to learn** and **teach others**!
 
 ---
 ## Who Am I? 🤘
 
 Hi, I'm Reuben Paul! I am a **McCombs School of Business** student.
-I love AI, cybersecurity, and Programming and have been passionate about technology 
+I love **AI, cybersecurity, and Programming** and have been passionate about technology 
 
 ---
 
 
---
+---
 
 ## Industry Leadership
 **Non-Profit Founder:**
