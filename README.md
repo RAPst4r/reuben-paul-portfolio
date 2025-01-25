@@ -52,6 +52,10 @@ I love **AI, cybersecurity, and Programming** and have been passionate about tec
   - **Purpose** Detect hacker attempts to phish (steal) information
   - **Application**: Use to protect users by against phishing threats
   - **Technologies**: sci-kit-learn, numpy, Pandas, Matplotlib, Jupyter notebook
+  
+  Open juptyer notebook to see how the code works
+  Remember what Gandalf the Wise says
+    <img src="gandalf-thou-shalt-not-phish.png" width="530" height="300">
 
 ### 5. **AI Self-Driving Cars** 🚗 
   In this project, I use Machine Learning and OpenCV to have the car camera detect lanes and extrapolate the lanes for self-driving
